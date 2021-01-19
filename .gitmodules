@@ -1,0 +1,3 @@
+[submodule "vuejs"]
+	path = vuejs
+	url = git@github.com:wangyizhou33/vuejs.git
