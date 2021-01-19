@@ -1,3 +1,6 @@
 [submodule "vuejs"]
 	path = vuejs
 	url = git@github.com:wangyizhou33/vuejs.git
+[submodule "nodejs"]
+	path = nodejs
+	url = git@github.com:wangyizhou33/nodejs.git
