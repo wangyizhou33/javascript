@@ -23,3 +23,13 @@ See code in html folder
     $ cd socket-io-server && node app.js
     $ cd socket-io-client && npm start
     ```
+
+8. [net module](https://cs.lmu.edu/~ray/notes/jsnetexamples/)
+    ```sh
+    node dateserver.js
+    ```
+    ```sh
+    node dateclient.js
+    or
+    nc localhost 59090
+    ```
